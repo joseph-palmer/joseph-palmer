@@ -8,4 +8,4 @@ Now
 - ⚙️ I work mainly in `R` but I also enjoy developing in `Python` and `C/C++`
 - 🌱 I like to build novel models for interesting ecological processes and generalise those approaches into software packages
 - 💬 Message me about modelling collective animal behaviour and movement patterns
-- For more info about me, checkout my personal page: https://joseph-palmer.github.io/
+- For more info about me, checkout my personal page: https://joseph-palmer.github.io/ or follow me on [Twitter](https://twitter.com/joepgpalmer)
